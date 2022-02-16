@@ -1,5 +1,6 @@
 # volbot
-a bot that helps you find volunteering opportunities in your area. 
+
+a bot that helps you find volunteering opportunities in your area.
 
 users:
 kmassada
@@ -17,5 +18,3 @@ itorrain
 * provide you volunteering events happening in a given time(in the next week, 2 weeks)
 
 * recommend events based on your past interests
-
-
