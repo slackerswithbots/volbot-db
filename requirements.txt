@@ -36,6 +36,6 @@ traitlets==4.3.3
 typed-ast==1.5.2
 typing-extensions==4.1.1
 wcwidth==0.2.5
-Werkzeug==2.0.3
+Werkzeug==2.2.3
 wrapt==1.13.3
 zipp==3.6.0
